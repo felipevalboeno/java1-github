@@ -1,0 +1,23 @@
+Whats is Git and Github?
+
+	GIT is a version system. Basically, it works with versions of a project, your project.
+You'll control the changes in your project, generating new versions called "commits".
+
+	Always when you start a project, or clone from Github and modifying it, you make an evolution in your project, and this
+evolution must be "commited" for you can update your project to a new version.
+
+	The better of all of it, is the if a new version cause problems in the project, you can undo the last "commmit",
+realizing a "Rollback" on your project. This is because the project on GIT are in a version repository.
+
+	Your project, as well as its versions, are saved in a remote repository (server). So, you can make changes to the project in your
+machine (local repository), generate a new "commit" and save the changes on the server again.
+
+
+
+***********************
+Here comes the Github!!
+
+	The Github is a service for hosting remote GIT repositories.
+
+ 	It is accessed by GIT installed on your machine, which saves your projects in the repositories on Github.
+	With this you will always have your project saved outside the local machine.
